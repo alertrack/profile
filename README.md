@@ -26,7 +26,7 @@ Mas vá muito além... analise os dados e mostre que tipo de cliente em potencia
 - Construa uma base consistente dos dados da pessoa
 - Utilize alguma das linguagens: **PHP, Elixir, Python3, NodeJS**
 - Utilize webservices como (ViaCep, RegistroWS)
-- Relacione os dados
+- Co-Relacione os dados!
 
 ### Diferenciais
 
