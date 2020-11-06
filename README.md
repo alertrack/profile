@@ -4,10 +4,13 @@ A aplicação tem um foco direcionado a exibir TODAS possibilidades e caracterí
 
 Responda perguntas, como:
 
-Onde ela vive?
-Qual sua idade?
-Que tipo de serviços digitais essa pessoa utiliza?
-Onde ela já trabalhou?
+- Onde ela vive?
+
+- Qual sua idade?
+
+- Que tipo de serviços digitais essa pessoa utiliza?
+
+- Onde ela já trabalhou?
 
 ...
 
@@ -23,10 +26,9 @@ Mas vá muito além... analise os dados e mostre que tipo de cliente em potencia
 
 ### O que esperamos?
 
-- Construa uma base consistente dos dados da pessoa
-- Utilize alguma das linguagens: **PHP, Elixir, Python3, NodeJS**
+- Estruture um perfil com os dados fornecidos (que seja escalável)
+- Utilize preferencialmente uma das linguagens: **PHP, Elixir, Python3, NodeJS**
 - Utilize webservices como (ViaCep, RegistroWS)
-- Co-Relacione os dados!
 
 ### Diferenciais
 
