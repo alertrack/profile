@@ -27,6 +27,7 @@ Mas vá muito além... analise os dados e mostre que tipo de cliente em potencia
 ### O que esperamos?
 
 - Estruture um perfil com os dados fornecidos (que seja escalável)
+- Incremente idéias e sugestões que possam beneficiar este produto
 - Utilize preferencialmente uma das linguagens: **PHP, Elixir, Python3, NodeJS**
 - Utilize webservices como (ViaCep, RegistroWS)
 
