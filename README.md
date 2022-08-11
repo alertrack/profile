@@ -10,8 +10,6 @@ Responda perguntas, como:
 
 - Que tipo de serviços digitais essa pessoa utiliza?
 
-- Onde ela já trabalhou?
-
 ...
 
 
@@ -35,5 +33,5 @@ Mas vá muito além... analise os dados e mostre que tipo de cliente em potencia
 
 ### Como entregar
 
-* Encaminhe um e-mail para **desenvolvimento@alertrack.com.br** com o assunto **Vaga Desenvolvimento** e encaminhe o link do seu repositório!
+* Encaminhe um e-mail para **desenvolvimento@alertrack.com.br** com o assunto **Vaga Desenvolvimento** e encaminhe o resultado do teste, pode encaminhar em PDF ou HTML uma página com o perfil do usuário analisado.
 
