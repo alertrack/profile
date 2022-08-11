@@ -28,13 +28,10 @@ Mas vá muito além... analise os dados e mostre que tipo de cliente em potencia
 
 - Identifique um perfil com os dados fornecidos
 - Utilize preferencialmente uma das linguagens: **PHP, Elixir, Python3, NodeJS**
-- Utilize webservices como (ViaCep, RegistroWS)
 
 ### Diferenciais
 
-- Utilize ferramentas de Inteligência para persistir alguns metadados do perfil (gênero, identificação de imagem, documentos para texto).
-- Uso do **ElasticSearch** para realizar busca dos dados!
-- Pensar fora da caixa!
+- Webservices para coleta de informações (ViaCep, ReceitaWS)
 
 ### Como entregar
 
