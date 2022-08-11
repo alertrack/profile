@@ -1,6 +1,6 @@
 # Desafio: Perfil Pessoa Física
 
-A aplicação tem um foco direcionado a exibir TODAS possibilidades e características de uma pessoa, seja pessoal, empresarial, serviços utilizados e etc. Você deve desenvolver uma página contendo de forma organizada e estruturada as informações que caracterizem esta pessoa, se baseando nos dados minerados sobre ela e os documentos que a relacionam de alguma forma.
+A aplicação tem um foco direcionado a exibir possibilidades e características de uma pessoa, seja pessoal, empresarial, serviços utilizados e etc. Você deve desenvolver uma página contendo de forma organizada e estruturada as informações que caracterizem desta pessoa, baseando-se nos dados minerados sobre ela e os documentos que a relacionam de alguma forma.
 
 Responda perguntas, como:
 
@@ -19,15 +19,14 @@ Mas vá muito além... analise os dados e mostre que tipo de cliente em potencia
 
 ### Apoio 
 
-- Utilize a rota da API: https://alertrack.com.br/api/test_web/profile/get
+- Utilize a rota da API: https://test.alertrack.com.br/api/test_web/profile/get
 - Os dados são entregues de forma desordenada, então, higienize e persista os dados onde achar melhor!
 - Após análise dos dados, estruture um perfil em uma página web onde haverá um campo de busca por CPF (ou outros filtros)
 - Exiba os dados de forma rápida e completa!
 
 ### O que esperamos?
 
-- Estruture um perfil com os dados fornecidos (que seja escalável)
-- Incremente idéias e sugestões que possam beneficiar este produto
+- Identifique um perfil com os dados fornecidos
 - Utilize preferencialmente uma das linguagens: **PHP, Elixir, Python3, NodeJS**
 - Utilize webservices como (ViaCep, RegistroWS)
 
@@ -39,5 +38,5 @@ Mas vá muito além... analise os dados e mostre que tipo de cliente em potencia
 
 ### Como entregar
 
-* Encaminhe um e-mail para **desenvolvimento@alertrack.com.br** com o assunto **Vaga Dev Full** e encaminhe o link do seu repositório!
+* Encaminhe um e-mail para **desenvolvimento@alertrack.com.br** com o assunto **Vaga Desenvolvimento** e encaminhe o link do seu repositório!
 
