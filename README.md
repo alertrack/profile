@@ -1,3 +1,7 @@
+
+## 🛠️ Abrir e rodar o projeto
+- `Pode então ser executado usando o comando: ` python Desafio.py
+  -  ` Running on http://127.0.0.1:8888/`
 # Desafio: Perfil Pessoa Física
 
 A aplicação tem um foco direcionado a exibir possibilidades e características de uma pessoa, seja pessoal, empresarial, serviços utilizados e etc. Você deve desenvolver uma página contendo de forma organizada e estruturada as informações que caracterizem desta pessoa, baseando-se nos dados minerados sobre ela e os documentos que a relacionam de alguma forma.
