@@ -1,4 +1,4 @@
-# Desafio: Perfil Pessoa Física
+# Desafio Data Analytics: Profile
 
 A aplicação tem um foco direcionado a exibir possibilidades e características de uma pessoa, seja pessoal, empresarial, serviços utilizados e etc. Você deve desenvolver uma página contendo de forma organizada e estruturada as informações que caracterizem desta pessoa, baseando-se nos dados minerados sobre ela e os documentos que a relacionam de alguma forma.
 
